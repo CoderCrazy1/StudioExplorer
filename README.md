@@ -1,1 +1,1 @@
-# StudioExplorer
+# Studio Explorer
